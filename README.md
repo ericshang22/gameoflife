@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project is based off of Conway's game of life. It is being used to learn and experiment using React Hooks.
 
 ## Available Scripts
 
